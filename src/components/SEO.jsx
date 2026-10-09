@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet-async';
  */
 function SEO({ title, description, path = '/' }) {
   const fullTitle = `${title} | Nonso Anukam — Frontend Developer`;
-  const url = `https://nonsodev.com${path}`;
+  const url = `https://nonso-portfoilo.netlify.app${path}`;
 
   return (
     <Helmet>

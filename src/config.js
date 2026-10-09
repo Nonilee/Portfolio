@@ -2,7 +2,7 @@
 // Swap the placeholder values below with real details before deploying.
 
 const config = {
-  siteName: 'Anukam Chinonso',
+  siteName: 'Nonso Anukam',
   role: 'Frontend Developer',
   tagline: 'I build fast, clear React interfaces for people who need to hire one.',
   location: 'Lagos, Nigeria',

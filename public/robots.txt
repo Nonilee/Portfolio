@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nonsodev.com/sitemap.xml
+Sitemap: https://nonso-portfoilo.netlify.app/sitemap.xml

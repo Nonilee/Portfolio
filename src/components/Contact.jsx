@@ -111,6 +111,7 @@ function Contact() {
           <ul className="contact-details">
             <li><strong>Email:</strong> <a href={`mailto:${config.email}`}>{config.email}</a></li>
             <li><strong>WhatsApp:</strong> <a href={`https://wa.me/${config.whatsappNumber}`} target="_blank" rel="noreferrer">Message on WhatsApp</a></li>
+            <li><strong>Resume:</strong> <a href={config.resumeUrl} download>Download PDF</a></li>
           </ul>
         </div>
       </div>
